@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476438578 source:e:\prog\c++\hello\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1476438578 source:e:\prog\c++\2dvector\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1523884120 source:c:\users\vivek\desktop\v5.5\2015a7ps0108p\driver.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+	"lexer.h"
+	"parser.h"
+	"typeChecker.h"
+	"symbolTable.h"
+
+1519588024 c:\users\vivek\desktop\v5.5\2015a7ps0108p\lexer.h
+	"lexerDef.h"
+
+1519673464 c:\users\vivek\desktop\v5.5\2015a7ps0108p\lexerdef.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1519595486 c:\users\vivek\desktop\v5.5\2015a7ps0108p\parser.h
+	"parserDef.h"
+
+1523845959 c:\users\vivek\desktop\v5.5\2015a7ps0108p\parserdef.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<stdbool.h>
+	"lexerDef.h"
+
+1523896622 c:\users\vivek\desktop\v5.5\2015a7ps0108p\typechecker.h
+	<stdio.h>
+	<stdlib.h>
+	"typeCheckerDef.h"
+	"parserDef.h"
+
+1523881565 c:\users\vivek\desktop\v5.5\2015a7ps0108p\typecheckerdef.h
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+
+1523884120 c:\users\vivek\desktop\v5.5\2015a7ps0108p\symboltable.h
+	<stdio.h>
+	<stdlib.h>
+	"symbolTableDef.h"
+
+1523870202 c:\users\vivek\desktop\v5.5\2015a7ps0108p\symboltabledef.h
+	<stdio.h>
+	<stdlib.h>
+	"typeChecker.h"
+
+1519673680 source:c:\users\vivek\desktop\v5.5\2015a7ps0108p\lexer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"lexer.h"
+
+1523808916 source:c:\users\vivek\desktop\v5.5\2015a7ps0108p\parser.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<stdbool.h>
+	"parser.h"
+	"lexer.h"
+
+1523891658 source:c:\users\vivek\desktop\v5.5\2015a7ps0108p\symboltable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"symbolTable.h"
+
+1523883929 source:c:\users\vivek\desktop\v5.5\2015a7ps0108p\typechecker.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"typeChecker.h"
+
