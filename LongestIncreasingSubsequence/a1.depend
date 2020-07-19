@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1477130357 source:e:\prog\c++\a1\main.cpp
+	<iostream>
+
+1477136998 source:e:\prog\c++\longestincreasingsubsequence\main.cpp
+	<iostream>
+	<vector>
+

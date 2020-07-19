@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477199335 source:e:\prog\c++\lcs(dp)\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
