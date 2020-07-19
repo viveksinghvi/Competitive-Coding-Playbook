@@ -1,0 +1,112 @@
+IC is 0.0422565
+
+Text divided into 2 partitions
+Average IC 0.0440403
+Text divided into 3 partitions
+Average IC 0.0419375
+Text divided into 4 partitions
+Average IC 0.0442952
+Text divided into 5 partitions
+Average IC 0.0552765
+Text divided into 6 partitions
+Average IC 0.0451493
+Text divided into 7 partitions
+Average IC 0.0424265
+Text divided into 8 partitions
+Average IC 0.045435
+Text divided into 9 partitions
+Average IC 0.0428368
+Text divided into 10 partitions
+Average IC 0.0649932
+Text divided into 11 partitions
+Average IC 0.0410008
+Text divided into 12 partitions
+Average IC 0.0447174
+Text divided into 13 partitions
+Average IC 0.0424671
+Text divided into 14 partitions
+Average IC 0.0438632
+Text divided into 15 partitions
+Average IC 0.055521
+Text divided into 16 partitions
+Average IC 0.0452363
+Text divided into 17 partitions
+Average IC 0.0415451
+Text divided into 18 partitions
+Average IC 0.0476411
+Text divided into 19 partitions
+Average IC 0.0431963
+Text divided into 20 partitions
+Average IC 0.0639278
+Text divided into 21 partitions
+Average IC 0.0414217
+Text divided into 22 partitions
+Average IC 0.0419764
+Text divided into 23 partitions
+Average IC 0.0423169
+Text divided into 24 partitions
+Average IC 0.0460473
+Text divided into 25 partitions
+Average IC 0.0533089
+Text divided into 26 partitions
+Average IC 0.0448461
+Text divided into 27 partitions
+Average IC 0.0410046
+Text divided into 28 partitions
+Average IC 0.0430902
+Text divided into 29 partitions
+Average IC 0.0411641
+Text divided into 30 partitions
+Average IC 0.0699264
+Text divided into 31 partitions
+Average IC 0.0395578
+Text divided into 32 partitions
+Average IC 0.0448469
+Text divided into 33 partitions
+Average IC 0.0401899
+Text divided into 34 partitions
+Average IC 0.0423529
+Text divided into 35 partitions
+Average IC 0.0570807
+Text divided into 36 partitions
+Average IC 0.0465982
+Text divided into 37 partitions
+Average IC 0.0428996
+Text divided into 38 partitions
+Average IC 0.0425966
+Text divided into 39 partitions
+Average IC 0.0413162
+Text divided into 40 partitions
+Average IC 0.0647186
+
+set 0
+a:8 b:1 c:7 d:1 e:9 f:0 g:1 h:3 i:9 j:0 k:0 l:3 m:5 n:6 o:8 p:0 q:0 r:7 s:4 t:9 u:2 v:1 w:1 x:0 y:1 z:0 
+set 1
+a:0 b:0 c:4 d:5 e:3 f:5 g:2 h:2 i:0 j:1 k:0 l:10 m:1 n:2 o:2 p:16 q:1 r:2 s:3 t:7 u:0 v:1 w:1 x:4 y:6 z:8 
+set 2
+a:10 b:1 c:4 d:4 e:9 f:1 g:3 h:3 i:5 j:0 k:0 l:5 m:2 n:13 o:6 p:1 q:0 r:3 s:5 t:6 u:3 v:1 w:1 x:0 y:0 z:0 
+set 3
+a:10 b:7 c:3 d:0 e:2 f:5 g:8 h:1 i:0 j:1 k:0 l:0 m:0 n:5 o:2 p:5 q:5 r:13 s:1 t:4 u:2 v:6 w:0 x:0 y:2 z:4 
+set 4
+a:7 b:9 c:0 d:1 e:1 f:0 g:4 h:6 i:3 j:0 k:2 l:7 m:5 n:7 o:2 p:6 q:0 r:1 s:0 t:8 u:2 v:4 w:1 x:4 y:3 z:3 
+set 5
+a:3 b:1 c:11 d:0 e:0 f:4 g:5 h:10 i:4 j:0 k:0 l:2 m:7 n:7 o:4 p:2 q:0 r:0 s:0 t:0 u:4 v:0 w:5 x:2 y:10 z:5 
+set 6
+a:0 b:0 c:3 d:6 e:7 f:5 g:1 h:0 i:2 j:4 k:7 l:5 m:0 n:2 o:0 p:1 q:0 r:8 s:1 t:2 u:6 v:10 w:0 x:2 y:4 z:10 
+set 7
+a:3 b:3 c:8 d:5 e:1 f:1 g:0 h:0 i:10 j:1 k:5 l:0 m:12 n:1 o:4 p:5 q:5 r:0 s:0 t:6 u:2 v:8 w:2 x:0 y:0 z:4 
+set 8
+a:6 b:4 c:1 d:0 e:2 f:7 g:3 h:2 i:0 j:1 k:0 l:3 m:0 n:4 o:2 p:5 q:8 r:12 s:0 t:5 u:5 v:7 w:0 x:0 y:5 z:4 
+set 9
+a:4 b:4 c:1 d:0 e:1 f:0 g:8 h:0 i:5 j:10 k:10 l:1 m:1 n:3 o:8 p:0 q:0 r:4 s:0 t:6 u:2 v:2 w:0 x:3 y:4 z:8 
+
+Partial encryption using key ?l????????
+couyw u dipnine phgdcaocatr pckp uamanf hh rv htlimvmyu arz of tbicta gnrouta zccrtt usr hz yczgn laazoror? ioulq t frvtaage hlceo zgchiax azdr zhe aciyrzntce os nhumeytanqbhx arttenpxm rvq iomiaz og evzh idrtm npvre in gkokp oking nl xvdbod of gailouzs anq tm vuczy infbxv if g ninrmyvvgn cengnlp iqjing ztwyqak or a gpyebvkth crgnlzl cord ckitmfyor? hbp gzouz we dvlnzvtaish oxnnmrt a geancemye confvcfcf gnd iamyctvment zbhu iaj but n vfvdrxly cbgmkzhited onn ywyrow lngalitk usiaz zrknje? arr nhumeytanqbhx iaj reafhhzvt oncoziukqore wiga grbrxialvlnzk, zkchaabmkqp biew by fzdvtg bevgaj? kbald a ztwyqak evee uy jivj to hnoy diqk its bph umposioal? wfcyj a mapacem ugve brecvnf. ioulq t grkuone mndy dqfzakef? viltq g macubhv jrrievr bn diqk its bph umposioal? wfcyj a mapacem rxronrhojtl lree jbfc bb otseyy? wfcyj a mapacem pume uc pckp vjeas gauk pnbe nog uyzvt vrogetgdmq onto vm ce iqbancr. viltq ireagbpvtl kmertx ziwz g set by zzfrj rulrl? uim jk evea mbv ubyt crrtnzdr gmont nm scg, vassvoy jtnbes purmzkf zhat thpvza uur nrnlfvf?
+Partial encryption using key ?l??tu????
+couyw a dipnine phmdcaocatr pikp uamanf hn rv htlimvmeu arz of tbiita gnrouta fccrtt usr hf yczgn laazuror? ioulq t lrvtaage hlieo zgchiax gzdr zhe acierzntce os nnumeytanqbnx arttenpxs rvq iomiaz ug evzh idrts npvre in gkukp oking nl dvdbod of gaolouzs anq ts vuczy infbdv if g ninrmevvgn cengnrp iqjing ztcyqak or a gpeebvkth crgtlzl cord ckotmfyor? hbp mzouz we dvltzvtaish oxtnmrt a geaniemye confvifcf gnd iamectvment zbnu iaj but n vlvdrxly cbgskzhited ont ywyrow lngglitk usiaz frknje? arr nnumeytanqbnx iaj reafhnzvt oncoziakqore wiga mrbrxialvltzk, zkchaabskqp biew by lzdvtg bevggj? kbald a ztcyqak evee ue jivj to hnoe diqk its bpn umposioal? cfcyj a mapaiem ugve breivnf. ioulq t mrkuone mnde dqfzakef? voltq g macubnv jrrievr bt diqk its bpn umposioal? cfcyj a mapaiem rxronrhujtl lree jblc bb otseyy? cfcyj a mapaiem pume uc pikp vjeas gaak pnbe nog uezvt vrogetmdmq onto vm ie iqbancr. voltq ireagbvvtl kmertx fiwz g set by fzfrj rulrl? aim jk evea mhv ubyt crrttzdr gmont ns scg, vassvoe jtnbes purszkf zhat thvvza uur nrnrfvf?
+Partial encryption using key alantu????
+could a dipnine comdcaocate wikp uamans on rv htlimiteu arz of topita gnrough fccrtt use of yczgn languror? iould a lrvtaage usieo zgchine gzdr zhe apperzntce of unumeytandinx arttences rvq ioming ug evzh ideas npvre in trukp oking as dvdbod of tholouzs and as vuczy insidv if g ninetevvgn centurp iqjing macyqak or a tweebvkth centlzl cord protmfyor? how mzouz we distzvtaish betnmrt a genuiemye conscifcf gnd intectvment minu iaj but a clvdrxly conskzhited but ywyrow langlitk using frknje? are unumeytandinx iaj reasonzvt oncompakqore with mrbrxialistzk, zkchaniskqp biew of lzdvtg beingj? kbald a macyqak ever be jivj to have diqk its own umposions? cfcyj a machiem ugve belivnf. iould a mrkuone make dqfzakes? coltq g machinv jrrieve it diqk its own umposions? cfcyj a machiem rxroneoujtl lree wilc bb otself? cfcyj a machiem pume up wikp vjeas thak pnbe not bezvt vrogramdmq onto it ie iqbance. coltq ireativvtl kmerge fiwz g set of fzfrj rules? aim jk even thv ubyt creatzdr gmong us scg, vassive jtnbes physzkf zhat govvza uur neurfvf?
+Partial encryption using key alanturi??
+could a mapnine commuaocate with uamans on an htlimited srz of topics gnrough flurtt use of huzgn languagr? iould a lantaage using zgchine givr zhe appearntce of undeeytanding srttences anq ioming up wvzh ideas whvre in truth oking as devbod of thouguzs and as emczy inside af g nineteengn century aqjing machiak or a twentvkth centurl cord procefyor? how miguz we distintaish betwert a genuineye consciouf gnd intellvment mind aaj but a clevrxly constrhited but hoyrow languatk using facnje? are undeeytanding aaj reasonint oncompatiore with matrxialistic, zkchanistip biew of livvtg beings? cbald a machiak ever be savj to have maqk its own deposions? couyj a machine ugve belieff. iould a macuone make mifzakes? coulq g machine brrieve it maqk its own deposions? couyj a machine rxroneousll lree will tb otself? couyj a machine pume up with vjeas that hnbe not beint vrogrammeq onto it in aqbance. coulq ireativell kmerge froz g set of fixrj rules? are jk even the mbyt creativr gmong us bug, vassive slnbes physicf zhat govera uur neuronf?
+Final Answer 
+could a machine communicate with humans on an unlimited set of topics through fluent use of human language? could a language using machine give the appearance of understanding sentences and coming up with ideas while in truth being as devoid of thoughts and as empty inside as a nineteenth century adding machine or a twentieth century word processor? how might we distinguish between a genuinely conscious and intelligent mind and but a cleverly constructed but hollow language using facade? are understanding and reasoning incompatible with materialistic, mechanistic view of living beings? could a machine ever be said to have made its own decisions? could a machine have beliefs. could a machine make mistakes? could a machine believe it made its own decisions? could a machine erroneously free will to itself? could a machine come up with ideas that have not being programmed into it in advance. could creatively emerge from a set of fixed rules? are we even the most creative among us but, passive slaves physics that govern our neurons?
