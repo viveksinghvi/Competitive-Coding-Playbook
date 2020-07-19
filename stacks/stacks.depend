@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476522816 source:e:\prog\c++\stacks\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+

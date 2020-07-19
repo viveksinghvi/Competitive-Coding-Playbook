@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476529104 source:e:\prog\c++\queue\main.cpp
+	<iostream>
+	<queue>
+
